@@ -32,7 +32,7 @@ lo transformamos en herramientas concretas para crear, resolver y hacer.
 </em></p>
 
 ## Enlaces
-[Documentos y guías de ejercicios](https://docs.google.com/document/d/1o-iFNkw3PyW0xb7arr3JwQXRaZ_FKOh6MO4sC_dAR5g/preview)
+[Documentos y guías de ejercicios](https://docs.google.com/document/d/1YjyXEKsN3yb-tq6dPOpMCPO4gbYVALktvBLS_bv_xHw/preview)
 
 ---
 
