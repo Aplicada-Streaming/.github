@@ -1,11 +1,12 @@
 # 👋 UTN - FRP - TUP - Programación Aplicada <br/> Streaming <br/>
 
 <p align="center">
-  <a href="https://www.youtube.com/@fernandofilipuzziutn">
-    [![YouTube](https://img.shields.io/badge/YouTube-Playlist-red)](https://www.youtube.com/playlist?list=PLNaY5TLWzvhapnQB5Jy8LvnpXVRoOxzta)
+  <a href="https://www.youtube.com/playlist?list=PLNaY5TLWzvhapnQB5Jy8LvnpXVRoOxzta">
+    <img src="https://img.shields.io/badge/YouTube-Aplicada%20Streaming-red?logo=youtube&logoColor=white"/>
   </a>
+  <br/>
   <a href="https://www.twitch.tv/fernandofilipuzziutn">
-    <img src="https://img.shields.io/badge/Twitch-Fernando%20Filipuzzi-purple?logo=twitch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitch-Aplicada%20Streaming-purple?logo=twitch&logoColor=white"/>
   </a>
 </p>
 
